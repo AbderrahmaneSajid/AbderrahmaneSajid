@@ -11,8 +11,8 @@
 ---
 
 ### 📫 You Can Find Me On:
-- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/abderrahmane-sajid-a6154b273/))  
-- **Portfolio:** [yourwebsite.com]([https://yourwebsite.com](https://abderrahmanesajid.github.io/portfolio/))  
+- **LinkedIn:** [Abderrahmane Sajid](https://www.linkedin.com/in/abderrahmane-sajid-a6154b273/)  
+- **Portfolio:** [Abderrahmane Sajid](https://abderrahmanesajid.github.io/portfolio/)  
 
 ---
 
@@ -41,7 +41,6 @@
 #### 🗄️ Databases:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 
 #### ☁️ Backend as a Service:
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?logo=firebase&logoColor=black)
